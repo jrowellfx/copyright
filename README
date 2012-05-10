@@ -1,0 +1,4 @@
+This repo contains an nroff script to format my standard OIC copyright
+notice.  There is a script included to spit out a '#' commented
+version of the notice which is useful inclusion in bash and python
+scripts for example.
