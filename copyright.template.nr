@@ -3,7 +3,7 @@
 .hy 0
 .pl 1
 .nf
-Copyright (c) 2008-2012, James Philip Rowell,
+Copyright (c) 2008-2016, James Philip Rowell,
 Orange Imagination & Concepts, Inc.
 www.orangeimagination.com
 All rights reserved.
