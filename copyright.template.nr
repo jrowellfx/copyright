@@ -3,9 +3,9 @@
 .hy 0
 .pl 1
 .nf
-Copyright (c) 2008-2016, James Philip Rowell,
-Orange Imagination & Concepts, Inc.
-www.orangeimagination.com
+Copyright (c) 2008-2018, James Philip Rowell,
+Alpha Eleven Incorporated
+www.alpha-eleven.com
 All rights reserved.
 .fi
 
