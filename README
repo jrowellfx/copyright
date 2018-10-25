@@ -1,4 +1,7 @@
-This repo contains an nroff script to format my standard Alpha Eleven Inc.
-copyright notice.  There is a script included to spit out a '#' commented
-version of the notice which is useful inclusion in bash and python
-scripts for example.
+This repo contains an nroff script to format my standard Alpha
+Eleven Inc. copyright/license notice.  There is a script included
+to create a '#' commented version of the notice which is useful
+for bash and python scripts.
+
+It also contains a simple copyright for any printed words - like
+my math papers.

@@ -1,4 +1,4 @@
 #!/bin/tcsh -fb
 
-nroff copyright.template.nr | sed -e '1,$ s/^/# /' > copyright.comment.scripts
-
+nroff copyright.bsd3ClauseLic.template.nr | sed -e '1,$ s/^/# /' > copyright.comment.scripts
+nroff copyright.simple.nr > copyright.simple
