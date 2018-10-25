@@ -3,6 +3,8 @@
 .hy 0
 .pl 1
 .nf
+BSD 3-Clause License
+
 Copyright (c) 2008-2018, James Philip Rowell,
 Alpha Eleven Incorporated
 www.alpha-eleven.com
