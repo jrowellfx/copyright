@@ -1,5 +1,5 @@
 #!/usr/bin/bash
 
 nroff copyright.BSD-3-Clause.template.nr > LICENSE
-sed -e '1,$ s/^/# /' < LICENSE > copyright.bsd3Lic.scripts
+sed -e '1,$ s/^/# /' < LICENSE > LICENSE.scripts
 nroff copyright.simple.nr > copyright.simple
