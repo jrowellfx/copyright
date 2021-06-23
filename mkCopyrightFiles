@@ -1,5 +1,5 @@
-#!/bin/tcsh -fb
+#!/usr/bin/bash
 
-nroff copyright.bsd3ClauseLic.template.nr > LICENSE
-nroff copyright.bsd3ClauseLic.template.nr | sed -e '1,$ s/^/# /' > copyright.bsd3Lic.scripts
+nroff copyright.BSD-3-Clause.template.nr > LICENSE
+sed -e '1,$ s/^/# /' < LICENSE > copyright.bsd3Lic.scripts
 nroff copyright.simple.nr > copyright.simple
