@@ -3,7 +3,7 @@
 .hy 0
 .pl 1
 .nf
-Copyright (c) 2017-2025, James Philip Rowell,
+Copyright (c) 2017-2026, James Philip Rowell,
 All rights reserved.
 .fi
 
